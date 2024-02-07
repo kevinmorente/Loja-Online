@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom'
-import './styleHeader.css';
+import './headerStyle.css';
 
 
 export const Header = () => {
@@ -19,7 +19,7 @@ export const Header = () => {
             <button className={Nav ? 'hamburger-active' : 'hamburger'} onClick={Click}></button>
             <ul className={Nav ? 'list-active' : 'list'}>
                 <li><Link to="/">INICIO ↩️</Link></li>
-                <li><Link to="/cart">CALSADOS 👠</Link></li>
+                <li><Link to="/applogin">LOGIN 🙋‍♂️</Link></li>
                 <li><Link to="/cart">ACESSORIOS 👛</Link></li>
                 <li><Link to="/cart">SEU CARRINHO 🛒</Link></li>
             </ul> 

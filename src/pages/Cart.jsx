@@ -4,6 +4,7 @@ import { getItem, setItem } from '../services/LocalStorage'
 import { BsCartDashFill } from "react-icons/bs";
 import './allPages.css';
 import { Header } from '../components/Header';
+import {ScrollToTopButton} from '../components/scrollbtn';
 
 
 export const Cart = () => {
@@ -31,6 +32,7 @@ export const Cart = () => {
                 ))
             }
         </div>
+        <ScrollToTopButton />
         <main className='hero'></main>
     </div>
   )

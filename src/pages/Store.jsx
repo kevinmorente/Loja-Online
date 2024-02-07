@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { BsFillCartCheckFill, BsFillCartPlusFill } from "react-icons/bs";
 import {getItem, setItem} from '../services/LocalStorage';
-// import {Link} from 'react-router-dom';
 import './allPages.css';
 import { Header } from '../components/Header';
+import {ScrollToTopButton} from '../components/scrollbtn';
 
 export const Store = () => {
 
@@ -54,6 +54,7 @@ export const Store = () => {
                 </div>
             ))}
         </div>
+        <ScrollToTopButton />
         <main className='hero'></main>
     </div>
   )
