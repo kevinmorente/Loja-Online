@@ -1,0 +1,68 @@
+* {
+    border: none;
+    background-color: transparent;
+}
+
+.blockStore{
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+.blockStoreUnit{
+    width: 230px;
+    height: 320px;
+    border: 1px solid blueviolet;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+    background-color: white;
+
+    border-radius: 8px;
+    box-shadow: 0 0 3px 1px blueviolet, 8px 8px 10px 1px blueviolet;
+    transition: box-shadow 0.3s;
+    
+
+    button {
+        font-size: 30px;
+        background-color: transparent;
+        border: none;
+        color: blueviolet;
+    }
+}
+
+.blockStoreUnit:hover {
+    box-shadow: 0 0 16px 2px blueviolet, 10px 10px 15px 2px blueviolet;
+}
+
+.divMain{
+    background-color: transparent;
+    background-image: url("../images/fundo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0; /* Remova as margens padrão para evitar espaços em branco */
+    padding: 0; /* Remova o preenchimento padrão */
+}
+
+.hero{
+   background-color: transparent;
+   background-image: url("../images/fundo.jpg");
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center center;
+   margin: 0; /* Remova as margens padrão para evitar espaços em branco */
+   padding: 0; /* Remova o preenchimento padrão */
+   height: 100vh;
+}
+
+
+
