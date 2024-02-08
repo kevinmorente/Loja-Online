@@ -12,8 +12,8 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-    margin: 0; /* Remova as margens padrão para evitar espaços em branco */
-    padding: 0; /* Remova o preenchimento padrão */
+    margin: 0; 
+    padding: 0; 
 }
 
 .btnres{
