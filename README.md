@@ -2,7 +2,7 @@
 
 ### SITE TEST DO PROJETO
 
-[➡️LOJA ONLINE⬅️](https://github.com/facebook/create-react-app)
+[➡️LOJA ONLINE⬅️](https://master--lojaonlinekvmorente.netlify.app/)
 
 
 ### EXECUTANDO UM LOCALHOST EM SEU PC
