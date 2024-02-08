@@ -20,7 +20,6 @@ export const Header = () => {
             <ul className={Nav ? 'list-active' : 'list'}>
                 <li><Link to="/">INICIO ↩️</Link></li>
                 <li><Link to="/applogin">LOGIN 🙋‍♂️</Link></li>
-                <li><Link to="/cart">ACESSORIOS 👛</Link></li>
                 <li><Link to="/cart">SEU CARRINHO 🛒</Link></li>
             </ul> 
         </nav>
