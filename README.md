@@ -1,4 +1,4 @@
-## LOJA ONLINE (AINDA EM DESENVOLVIMENTO)
+## LOJA ONLINE (EM DESENVOLVIMENTO)
 
 ### SITE TEST DO PROJETO
 
@@ -10,4 +10,8 @@
 Faça o download e execute o comando abaixo no console dentro da página que está os arquivos.
 
 ### `npm start` ou `yarn start`
+
+### PRINTS
+
+![alt text](image.png)
 
