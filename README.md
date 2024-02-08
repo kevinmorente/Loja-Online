@@ -1,9 +1,10 @@
-# LOJA ONLINE
+### LOJA ONLINE
 
 Acesse o site test [Create React App](https://github.com/facebook/create-react-app).
 
 ## 
-### RORANDO EM SEU PC
+
+### EXECUTANDO UM LOCALHOST EM SEU PC
 
 Execute o comando abaixo no console dentro da página que está os arquivos.
 
