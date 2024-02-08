@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { BsFillCartCheckFill, BsFillCartPlusFill } from "react-icons/bs";
 import {getItem, setItem} from '../services/LocalStorage';
-import './allPages.css';
+import './storeAndCartStyle.css';
 import { Header } from '../components/Header';
 import {ScrollToTopButton} from '../components/scrollbtn';
 

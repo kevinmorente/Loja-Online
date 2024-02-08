@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import { getItem, setItem } from '../services/LocalStorage'
 import { BsCartDashFill } from "react-icons/bs";
-import './allPages.css';
+import './storeAndCartStyle.css';
 import { Header } from '../components/Header';
 import {ScrollToTopButton} from '../components/scrollbtn';
 

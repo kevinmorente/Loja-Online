@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Login from './login';
 import Register from './register';
-import './loginScreenStyle.css'; // Importando o arquivo CSS
+import './pageLoginScreenStyle.css'; // Importando o arquivo CSS
 
 export const AppLogin = () => {
   const [isLogin, setIsLogin] = useState(true);
