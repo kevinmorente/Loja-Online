@@ -7,7 +7,7 @@
 
 ### EXECUTANDO UM LOCALHOST EM SEU PC
 
-faça o download e execute o comando abaixo no console dentro da página que está os arquivos.
+Faça o download e execute o comando abaixo no console dentro da página que está os arquivos.
 
 ### `npm start` ou `yarn start`
 
