@@ -1,8 +1,9 @@
-# LOJA ONLINE
+## LOJA ONLINE
 
-Acesse o site test [Create React App](https://github.com/facebook/create-react-app).
+### SITE TEST DO PROJETO (AINDA EM DESENVOLVIMENTO)
 
-## 
+[➡️LOJA ONLINE DE ACESSÓRIOS FEMININOS⬅️](https://github.com/facebook/create-react-app).
+
 
 ### EXECUTANDO UM LOCALHOST EM SEU PC
 
