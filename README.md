@@ -2,9 +2,10 @@
 
 Acesse o site test [Create React App](https://github.com/facebook/create-react-app).
 
-## RORANDO EM SEU PC
+## 
+### RORANDO EM SEU PC
 
-Execute o comando abaixo no console dentro da página que está os arquivos
+Execute o comando abaixo no console dentro da página que está os arquivos.
 
 ### `npm start` ou `yarn start`
 
