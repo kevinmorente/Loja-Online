@@ -2,7 +2,7 @@
 
 ### SITE TEST DO PROJETO
 
-[➡️LOJA ONLINE DE ACESSÓRIOS FEMININOS⬅️](https://github.com/facebook/create-react-app)
+[➡️LOJA ONLINE⬅️](https://github.com/facebook/create-react-app)
 
 
 ### EXECUTANDO UM LOCALHOST EM SEU PC
